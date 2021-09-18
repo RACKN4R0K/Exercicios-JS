@@ -1,0 +1,15 @@
+Javascript
+
+quando for para por uma frase colocamos 
+console.log("Meu Primeiro progrma: trabalhando com variáveis")
+
+const idade = 26;
+
+console.log("idade") obs: quando tem as aspa ele ira reproduzir o texto que esta escrito dentro 
+caso esteja sem as aspas ele ira representar a variavel indicada.
+
+quando usando o comando parseInt ele ira somar as paralavras mesmo estando com as aspas exemplo:
+
+console.log(parseInt("2")+ parseInt("2")) 
+o progrma vai me devolver:
+4
